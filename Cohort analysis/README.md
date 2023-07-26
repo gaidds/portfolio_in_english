@@ -20,12 +20,12 @@ The data is presented in three dataframes :
  - costs (information about the visitor acquisition cost).
 
 ## Skills and Tools
-- python
-- pandas
-- matplotlib
-- cohort analysis
-- unit economy (LTV, CAC, ROI, Retention rate)
-- seaborn
+- Python
+- Pandas
+- Matplotlib
+- Cohort analysis
+- Unit economy (LTV, CAC, ROI, Retention rate)
+- Seaborn
 
 ## Conclusion
 
