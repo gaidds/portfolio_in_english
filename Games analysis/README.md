@@ -1,6 +1,6 @@
 # Studying the patterns that determine the success of games
 Project link:
-[ipynb](https://github.com/gaidds/portfolio/blob/main/Games%20analysis/games_analysis_project.ipynb)
+[ipynb](https://github.com/gaidds/portfolio_in_english/blob/main/Games%20analysis/games_analysis_project-english.ipynb)
 
 ## Description of the project
 
