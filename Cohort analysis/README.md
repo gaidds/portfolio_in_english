@@ -1,6 +1,6 @@
 # Loss analysis of the ProcrastinatePRO+ application
 Project link:
-[ipynb](https://github.com/gaidds/portfolio/blob/main/Cohort%20analysis/ltv_roi_retention.ipynb)
+[ipynb](https://github.com/gaidds/portfolio_in_english/blob/main/Cohort%20analysis/ltv_roi_retention-english.ipynb)
 
 ## Description of the project
 
