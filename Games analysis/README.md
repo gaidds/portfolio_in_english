@@ -27,10 +27,10 @@ Data is available from open sources.
 
 ## Skills and Tools
 - Python
-- pandas
+- Pandas
 - NumPy
-- matplotlib
-- testing of statistical hypotheses
+- Matplotlib
+- Testing of statistical hypotheses (SciPy)
 
 ## Conclusion
 
