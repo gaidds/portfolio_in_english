@@ -1,6 +1,6 @@
 # Evaluation of A/B test results by various methods
 Project link:
-[ipynb](https://github.com/gaidds/portfolio/blob/main/Analysing%20AB%20test/project_a_b_test.ipynb)
+[ipynb](https://github.com/gaidds/portfolio_in_english/blob/main/AB%20test/project_a_b_test-english.ipynb)
 
 ## Description of the project
 
